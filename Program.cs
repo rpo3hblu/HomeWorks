@@ -4,30 +4,30 @@
 // Задайте значения M и N. Напишите программу,
 //  которая выведет все натуральные числа в промежутке от M до N.
 
-// int n = Convert.ToInt32(Console.ReadLine());
-// int m = Convert.ToInt32(Console.ReadLine());
-// void F(int m, int n)
-// {
-//     if (m != n)
-//     {
-//         if (m > n)
-//         {
-//             F(m - 1, n);
-//             System.Console.Write(m + " ");
-//         }
-//         else
-//         {
-//             F(m + 1, n);
-//             System.Console.Write(m + " ");
-//         }
-//     }
-//     else
-//     {
-//         System.Console.Write(m + " ");
-//     }
-// }
+int n = Convert.ToInt32(Console.ReadLine());
+int m = Convert.ToInt32(Console.ReadLine());
+void F(int m, int n)
+{
+    if (m != n)
+    {
+        if (m > n)
+        {
+            F(m - 1, n);
+            System.Console.Write(m + " ");
+        }
+        else
+        {
+            F(m + 1, n);
+            System.Console.Write(m + " ");
+        }
+    }
+    else
+    {
+        System.Console.Write(m + " ");
+    }
+}
 
-// F(m, n);
+F(m, n);
 
 
 
@@ -40,17 +40,17 @@
 // Использовать рекурсию, не использовать циклы.
 
 
-// int[] array = { 1, 2, 3, 4, 5 };
-// PrintArrayReverse(array, array.Length - 1);
+int[] array = { 1, 2, 3, 4, 5 };
+PrintArrayReverse(array, array.Length - 1);
 
-// static void PrintArrayReverse(int[] arr, int index)
-// {
-//     if (index >= 0)
-//     {
-//         Console.WriteLine(arr[index]);
-//         PrintArrayReverse(arr, index - 1);
-//     }
-// }
+static void PrintArrayReverse(int[] arr, int index)
+{
+    if (index >= 0)
+    {
+        Console.WriteLine(arr[index]);
+        PrintArrayReverse(arr, index - 1);
+    }
+}
 
 
 
