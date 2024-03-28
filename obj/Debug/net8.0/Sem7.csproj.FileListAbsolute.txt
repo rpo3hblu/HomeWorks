@@ -1,0 +1,14 @@
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\obj\Debug\net8.0\Sem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\obj\Debug\net8.0\Sem7.AssemblyInfoInputs.cache
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\obj\Debug\net8.0\Sem7.AssemblyInfo.cs
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\obj\Debug\net8.0\Sem7.csproj.CoreCompileInputs.cache
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\bin\Debug\net8.0\Sem7.exe
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\bin\Debug\net8.0\Sem7.deps.json
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\bin\Debug\net8.0\Sem7.runtimeconfig.json
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\bin\Debug\net8.0\Sem7.dll
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\bin\Debug\net8.0\Sem7.pdb
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\obj\Debug\net8.0\Sem7.dll
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\obj\Debug\net8.0\refint\Sem7.dll
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\obj\Debug\net8.0\Sem7.pdb
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\obj\Debug\net8.0\Sem7.genruntimeconfig.cache
+C:\Users\rpo3h\OneDrive\Рабочий стол\Work\Seminars\Sem7\obj\Debug\net8.0\ref\Sem7.dll
